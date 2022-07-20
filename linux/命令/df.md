@@ -15,4 +15,4 @@ tmpfs           498M  8.3M  489M   2% /run
 tmpfs           498M     0  498M   0% /sys/fs/cgroup
 /dev/vdb5       2.0G   43M  1.8G   3% /data/github
 ```
-Filessystem表示磁盘，Mounted on表示挂载在这个磁盘的目录
+Filessystem表示磁盘分区，Mounted on表示挂载在这个磁盘的目录
